@@ -77,12 +77,10 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/EvaMaria-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/shakir04/queen">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -91,7 +89,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AM-ROBOTS/EvaMaria-V2
+git clone https://github.com/shakir04/queen
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
